@@ -1,0 +1,106 @@
+.cua1{
+	position: absolute;
+	top: 130%;
+	left: 10%;
+	width: 23%;
+	height: 35%;
+	background-image: url(ima1.jpg);
+	border-style: none;
+	border-radius: 20%;
+	box-shadow: 10px 10px 5px #D7BDE2;
+}
+
+.cua2{
+	position: absolute;
+	top: 130%;
+	left: 40%;
+	width: 23%;
+	height: 35%;
+	background-image: url(ima3.jpg);
+	border-style: none;
+	border-radius: 20%;
+	box-shadow: 10px 10px 5px #D7BDE2;
+}
+
+.cua3{
+	position: absolute;
+	top: 130%;
+	left: 72%;
+	width: 23%;
+	height: 35%;
+	background-image: url(ima2.jpg);
+	border-style: none;
+	border-radius: 20%;
+	box-shadow: 10px 10px 5px #D7BDE2;
+}
+
+.l2{
+	position: absolute;
+	top: 180%;
+	left: 5%;
+	color: #3C5FEE;
+	font-family:titulop3;
+	font-size: 400%;
+}
+.l3{
+	position: absolute;
+	top: 180%;
+	left: 8%;
+	color: #3C5FEE;
+	font-family:titulop3;
+	font-size: 400%;
+}
+
+.cs{
+	position: absolute;
+	top: 35%;
+	left: 170%;
+	width: 253%;
+	height: 250%;
+	background-color: #DCD7F3;
+	border-style: solid;
+	color: #B4EEFA;
+	display: none;
+}
+
+.l2:active .cs{
+	display: block;
+}
+
+.cs1{
+	position: absolute;
+	top: -148%;
+	left: 271%;
+	width: 404.5%;
+	height: 250%;
+	background-color: #DCD7F3;
+	border-style: solid;
+	color: #B4EEFA;
+	display: none;
+}
+.l3:active .cs1{
+	display: block;
+}
+
+.img{
+	position: absolute;
+	top: 156%;
+	left: 18%;
+}
+
+.letra{
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	font-family: titulop1;
+	font-size: 120%;
+	color: black;
+}
+.letra2{
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	font-family: titulop1;
+	font-size: 450%;
+	color: black;
+}
